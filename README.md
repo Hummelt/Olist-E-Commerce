@@ -12,10 +12,15 @@ The data is divided in multiple datasets for better understanding and organizati
 ![Dataset](https://i.imgur.com/HRhd2Y0.png)
 
 ## Analysis
-With the Analysis of this dataset three main questions should be answered:
+With the Analysis of this dataset we want to resolve:
 
--
--
--
+- A "How to start the Analyse"
+- A "How to prepare your dataset(s)"
+- A "How to explore the data"
+
+Logistical point of view: 
+  - What does the SKU profile looks like?
+  - What does the order profile look like?
+  - Can we derive any correlation of products that will be likely ordered together?
 
 Further this analysis should be an example on how to analyze (multiple datasets) on the one hand and on the other hand explain every step to everybody out there who is just starting to become a Parselmouth.
