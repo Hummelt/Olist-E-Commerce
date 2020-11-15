@@ -12,9 +12,9 @@ The data is divided in multiple datasets for better understanding and organizati
 ![Dataset](https://i.imgur.com/HRhd2Y0.png)
 
 ## Analysis
-With the Analysis of this dataset we want to resolve:
+With the Analysis of this dataset we want to develop and resolve:
 
-- A "How to start the Analyse"
+- A "How to start the analysis"
 - A "How to prepare your dataset(s)"
 - A "How to explore the data"
 
