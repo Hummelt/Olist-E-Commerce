@@ -19,7 +19,7 @@ With the Analysis of this dataset we want to develop and resolve:
 - A "How to explore the data"
 
 Logistical point of view: 
-  - What does the SKU profile looks like?
+  - How many deliveries are on time (or earlier than the expected delivery date) and how many are delayed?
   - What does the order profile look like?
   - Can we derive any correlation of products that will be likely ordered together?
 
