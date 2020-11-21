@@ -22,5 +22,6 @@ Logistical point of view:
   - How many deliveries are on time (or earlier than the expected delivery date) and how many are delayed?
   - What does the order profile look like?
   - Can we derive any correlation of products that will be likely ordered together?
+  - What correlations can we find regarding the item price?
 
 Further this analysis should be an example on how to analyze (multiple datasets) on the one hand and on the other hand explain every step to everybody out there who is just starting to become a Parselmouth.
