@@ -31,7 +31,7 @@ The following steps have been processed in this analysis:
 With the Analysis of this dataset we want to develop and resolve some logistical point: 
   - Are deliveries on time (or earlier than the expected delivery date)?
   - What does the order profile look like?
-  - What correlations can we find regarding the item price?
+  - What correlations can we find regarding the item price and the payment method?
 
 Further this analysis should be an example on how to analyze (multiple datasets) on the one hand and on the other hand explain every step to everybody out there who is just starting to become a Parselmouth.
 
