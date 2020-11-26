@@ -28,10 +28,10 @@ The following steps have been processed in this analysis:
 - 
 
 ## Questions of the Analysis
-With the Analysis of this dataset we want to develop and resolve some logistical point: 
-  - Are deliveries on time (or earlier than the expected delivery date)?
-  - What does the order profile look like?
-  - What correlations can we find regarding the item price and the payment method?
+With the Analysis of this dataset we want to answer the following 3 questions:
+- What does the order profile of olist look like?
+- Does Olist deliver on time (or even earlier than the expected delivery date)?
+- What correlations can we find between item price and payment method?
 
 Further this analysis should be an example on how to analyze (multiple datasets) on the one hand and on the other hand explain every step to everybody out there who is just starting to become a Parselmouth.
 
