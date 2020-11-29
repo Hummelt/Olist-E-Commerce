@@ -24,8 +24,10 @@ The following steps have been processed in this analysis:
 ## Data Moddeling
 
 - Combining data sets
+- Analyzing the data
 - Checking for correlations
-- 
+- Logistical Regression
+- Checking the R2squared
 
 ## Questions of the Analysis
 With the Analysis of this dataset we want to answer the following 3 questions:
@@ -36,3 +38,8 @@ With the Analysis of this dataset we want to answer the following 3 questions:
 Further this analysis should be an example on how to analyze (multiple datasets) on the one hand and on the other hand explain every step to everybody out there who is just starting to become a Parselmouth.
 
 ## Evaluate the Results
+
+Conclusion:
+- Olist has a typical order profile for an e-com business with >90% SIOs.
+- The mean delivery time is 12,49  days after the purchase.
+- We can see some correlations which are quite intuitive to understand and others less. The payment via credit card makes >73% of the orders and >50% of the orders are payed at once, without any payment installments.
