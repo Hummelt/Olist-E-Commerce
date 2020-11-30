@@ -12,12 +12,13 @@ The data is divided in multiple datasets for better understanding and organizati
 ![Dataset](https://i.imgur.com/HRhd2Y0.png)
 
 Used .csv sets in this analysis:
-- olist_orders_dataset.csv
-- olist_order_payments_dataset.csv
-- olist_products_dataset.csv
-- olist_order_items_dataset.csv
+- olist_orders_dataset.csv: table of orders
+- olist_order_payments_dataset.csv: table of payments
+- olist_products_dataset.csv: table of products
+- olist_order_items_dataset.csv: table of order items
+For more details check the Notebook.
 
-The data set is provided by [kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+The data set is provided by [kaggle.](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
 ## Prepare Data
 
@@ -63,4 +64,4 @@ Conclusion:
 2) The mean delivery time is 12,49  days after the purchase.
 3) We can see some correlations which are quite intuitive to understand and others less. The payment via credit card makes >73% of the orders and >50% of the orders are payed at once, without any payment installments.
 
-See Medium Blogpost for this analysis [here](https://mjhummelt.medium.com/diving-into-the-e-com-business-through-data-b8b579054b34)
+See Medium Blogpost for this analysis [here.](https://mjhummelt.medium.com/diving-into-the-e-com-business-through-data-b8b579054b34)
