@@ -13,6 +13,17 @@ The data is divided in multiple datasets for better understanding and organizati
 
 ## Prepare Data
 
+Analysis software and libraries:
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly
+- Seaborn
+- scikit-learn
+- datetime
+
 The following steps have been processed in this analysis:
 
 - Understanding the dataset
@@ -31,15 +42,15 @@ The following steps have been processed in this analysis:
 
 ## Questions of the Analysis
 With the Analysis of this dataset we want to answer the following 3 questions:
-- What does the order profile of olist look like?
-- Does Olist deliver on time (or even earlier than the expected delivery date)?
-- What correlations can we find between item price and payment method?
+1) What does the order profile of olist look like?
+2) Does Olist deliver on time (or even earlier than the expected delivery date)?
+3) What correlations can we find between item price and payment method?
 
 Further this analysis should be an example on how to analyze (multiple datasets) on the one hand and on the other hand explain every step to everybody out there who is just starting to become a Parselmouth.
 
 ## Evaluate the Results
 
 Conclusion:
-- Olist has a typical order profile for an e-com business with >90% SIOs.
-- The mean delivery time is 12,49  days after the purchase.
-- We can see some correlations which are quite intuitive to understand and others less. The payment via credit card makes >73% of the orders and >50% of the orders are payed at once, without any payment installments.
+1) Olist has a typical order profile for an e-com business with >90% SIOs.
+2) The mean delivery time is 12,49  days after the purchase.
+3) We can see some correlations which are quite intuitive to understand and others less. The payment via credit card makes >73% of the orders and >50% of the orders are payed at once, without any payment installments.
