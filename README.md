@@ -17,6 +17,8 @@ Used .csv sets in this analysis:
 - olist_products_dataset.csv
 - olist_order_items_dataset.csv
 
+The data set is provided by [kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+
 ## Prepare Data
 
 Analysis software and libraries:
