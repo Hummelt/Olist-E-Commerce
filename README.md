@@ -11,7 +11,7 @@ The data is divided in multiple datasets for better understanding and organizati
 
 ![Dataset](https://i.imgur.com/HRhd2Y0.png)
 
-Used .csv sets
+Used .csv sets in this analysis:
 - olist_orders_dataset.csv
 - olist_order_payments_dataset.csv
 - olist_products_dataset.csv
@@ -60,3 +60,5 @@ Conclusion:
 1) Olist has a typical order profile for an e-com business with >90% SIOs.
 2) The mean delivery time is 12,49  days after the purchase.
 3) We can see some correlations which are quite intuitive to understand and others less. The payment via credit card makes >73% of the orders and >50% of the orders are payed at once, without any payment installments.
+
+See Medium Blogpost for this analysis [here](https://mjhummelt.medium.com/diving-into-the-e-com-business-through-data-b8b579054b34)
