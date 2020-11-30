@@ -11,6 +11,12 @@ The data is divided in multiple datasets for better understanding and organizati
 
 ![Dataset](https://i.imgur.com/HRhd2Y0.png)
 
+Used .csv sets
+- olist_orders_dataset.csv
+- olist_order_payments_dataset.csv
+- olist_products_dataset.csv
+- olist_order_items_dataset.csv
+
 ## Prepare Data
 
 Analysis software and libraries:
