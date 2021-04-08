@@ -65,4 +65,5 @@ Conclusion:
 2) The mean delivery time is 12,49  days after the purchase.
 3) We can see some correlations which are quite intuitive to understand and others less. The payment via credit card makes >73% of the orders and >50% of the orders are payed at once, without any payment installments.
 
+
 See Medium Blogpost for this analysis [here.](https://mjhummelt.medium.com/diving-into-the-e-com-business-through-data-b8b579054b34)
