@@ -1,4 +1,4 @@
-# How to dive into the field of Data - Story of a rookie.
+# How to dive into the field of Data
 ### Analysing of the E-Commerce company Olist dataset
 ![Python](https://files.realpython.com/media/wxPython-GUI-Tutorial_Watermarked.917be5fbbf2c.jpg)
 
